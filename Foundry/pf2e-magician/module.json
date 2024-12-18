@@ -1,7 +1,7 @@
 {
   "id": "pf2e-magician",
   "title": "PF2e Magician",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -32,15 +32,15 @@
       "pf2e-homebrew": {
         "featTraits": {
           "magician": {
-            "label": "magician",
-            "description": "Actions with this trait relate to the magician class"
+            "label": "Magician",
+            "description": "This indicates abilities from the magician class."
           },
           "reveal": {
-            "label": "reveal",
+            "label": "Reveal",
             "description": "Actions with this trait can only be performed when a creature is captivated by you. Performing this action ends their captivation. Any effect caused by an action with this trait ends if you captivate another creature. You may also end such an effect voluntarily as a free action on your turn."
           },
           "trick": {
-            "label": "trick",
+            "label": "Trick",
             "description": "Only one action with this trait may be taken per turn, and may only be taken while a creature is captivated by you. Some actions with this trait have persistent effects; those effects end if you captivate another creature, the creature ceases to be captivated by you for any reason, or you take any other action with this trait. You may also end such an effect voluntarily as a free action on your turn."
           }
         }
