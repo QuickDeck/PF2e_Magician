@@ -1,9 +1,9 @@
 Magician Changenotes:
 1.1
 - Added Guile, auto-scaling profiency for either Performance or Deception. "At 3rd level, 7th level, and 15th level, you gain an additional skill increase that may only be used for Performance or Deception."
-- Additional automation and use of choice sets - Ceraptor
-- Create slugs for class features and feats - Ceraptor
-- Add icons to class features - Ceraptor
+- Additional automation and use of choice sets - Cerapter
+- Create slugs for class features and feats - Cerapter
+- Add icons to class features - Cerapter
 
 1.0
 - De-British my English in a few places.
